@@ -1,0 +1,21 @@
+
+# Data files
+data/
+*.csv
+*.json
+*.npy
+*.npz
+*.h5
+*.pkl
+
+# Model weights & results
+results/
+*.pt
+*.pth
+*.ckpt
+*.weights
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
