@@ -1,6 +1,5 @@
 
-# Data files
-data/
+data/*
 !data/resized_256/
 !data/robot_resized_256/
 *.csv
