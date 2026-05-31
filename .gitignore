@@ -1,6 +1,8 @@
 
 # Data files
 data/
+!data/resized_256/
+!data/robot_resized_256/
 *.csv
 *.json
 *.npy
